@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "direccion": "Catamarca 562, A4400 Salta",
+        "coordenadas": [
+            -24.79713218569837,
+            -65.40623003385596
+        ]
+    },
+    {
+        "id": 2,
+        "direccion": "Deán Funes 398, A4400 Salta",
+        "coordenadas": [
+            -24.78517781021208,
+            -65.40776759152692
+        ]
+    },
+    {
+        "id": 3,
+        "direccion": "Pueyrredón 350, Salta",
+        "coordenadas": [
+            -24.785503373748025,
+            -65.40651857754554
+        ]
+    },
+    {
+        "id": 4,
+        "direccion": "Catamarca 370, A4400 Salta",
+        "coordenadas": [
+            -24.79434675819614,
+            -65.40617525982043
+        ]
+    },
+    {
+        "id": 5,
+        "direccion": "Av. Paraguay 1275, A4400 Salta",
+        "coordenadas": [
+            -24.80601111093018,
+            -65.41960729152595
+        ]
+    },
+    {
+        "id": 6,
+        "direccion": "Av. Belgrano 770, A4400 Salta",
+        "coordenadas": [
+            -24.78637982863709,
+            -65.41286627923948
+        ]
+    }
+]

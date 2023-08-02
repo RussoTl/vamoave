@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "nombre": "Sabor a Oriente",
+        "tipo_cocina": "Mediterránea 🍝",
+        "ingredientes": [
+            "aceite de oliva",
+            "tomates 🍅",
+            "ajo 🧄",
+            "pescado 🐟"
+        ],
+        "precio_minimo": 30.0,
+        "precio_maximo": 50.0,
+        "popularidad": 8.7,
+        "disponibilidad": true,
+        "id_ubicacion": 1,
+        "imagen": "image_1.png"
+    },
+    {
+        "id": 2,
+        "nombre": "SUSHI GO Downtown",
+        "tipo_cocina": "Japonesa 🍣",
+        "ingredientes": [
+            "arroz 🍚",
+            "pescado fresco 🐟",
+            "alga nori 🌿",
+            "salsa de soja 🍱"
+        ],
+        "precio_minimo": 25.0,
+        "precio_maximo": 60.0,
+        "popularidad": 9.2,
+        "disponibilidad": true,
+        "id_ubicacion": 2,
+        "imagen": "image_2.png"
+    },
+    {
+        "id": 3,
+        "nombre": "México Lindo",
+        "tipo_cocina": "Mexicana 🌮",
+        "ingredientes": [
+            "tortillas de maíz 🌽",
+            "carne de res 🥩",
+            "frijoles 🍛",
+            "guacamole 🥑"
+        ],
+        "precio_minimo": 20.0,
+        "precio_maximo": 40.0,
+        "popularidad": 8.5,
+        "disponibilidad": true,
+        "id_ubicacion": 3,
+        "imagen": "image_3.png"
+    },
+    {
+        "id": 4,
+        "nombre": "La Fiamma",
+        "tipo_cocina": "Italiana 🍕",
+        "ingredientes": [
+            "harina de trigo 🍞",
+            "salsa de tomate 🍅",
+            "mozzarella 🧀",
+            "albahaca 🌿"
+        ],
+        "precio_minimo": 25.0,
+        "precio_maximo": 45.0,
+        "popularidad": 9.0,
+        "disponibilidad": true,
+        "id_ubicacion": 4,
+        "imagen": "image_4.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Agni Food",
+        "tipo_cocina": "India 🍛",
+        "ingredientes": [
+            "arroz basmati 🍚",
+            "pollo tikka masala 🍗",
+            "especias 🌶️",
+            "lentejas 🍲"
+        ],
+        "precio_minimo": 35.0,
+        "precio_maximo": 55.0,
+        "popularidad": 8.8,
+        "disponibilidad": true,
+        "id_ubicacion": 5,
+        "imagen": "image_5.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Design Resto",
+        "tipo_cocina": "Francesa 🥐",
+        "ingredientes": [
+            "mantequilla 🧈",
+            "harina de trigo 🍞",
+            "queso brie 🧀",
+            "baguette 🥖"
+        ],
+        "precio_minimo": 40.0,
+        "precio_maximo": 70.0,
+        "popularidad": 9.5,
+        "disponibilidad": true,
+        "id_ubicacion": 6,
+        "imagen": "image_6.png"
+    }
+]
